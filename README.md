@@ -2,9 +2,6 @@
                                                                            
 ## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Kyle Fernandez from the Philippines.
-
-
 <br />
 <br />
 
