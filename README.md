@@ -27,7 +27,4 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SSimbah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Kyle Fernandez's Github Stats">
-</p>
 
