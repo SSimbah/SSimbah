@@ -20,5 +20,5 @@
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/SSimbah)](https://github.com/SSimbah)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/SSimbah)](https://github.com/SSimbah)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SSimbah)](https://github.com/SSimbah) 
-
+[![C#](https://img.shields.io/badge/C%23-C--Sharp-blue=https://github.com/SSimbah)](https://github.com/SSimbah) 
 
