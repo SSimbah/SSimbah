@@ -4,9 +4,7 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ### 👨‍💻 Languages and Tools
 
 <br />
@@ -27,7 +25,4 @@
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84&link=https://github.com/SSimbah)](https://github.com/SSimbah) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSimbah&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
