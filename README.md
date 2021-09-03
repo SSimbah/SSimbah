@@ -6,6 +6,9 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSimbah)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 ### 👨‍💻 Languages and Tools
 
 <br />
